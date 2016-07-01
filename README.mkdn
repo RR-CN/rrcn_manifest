@@ -1,7 +1,7 @@
 
 Resurrection OS Marshmallow Source 2016
 ===================
-
+This is a project base on RR, with Chinese Location, Lunar and so on. It builds for Chinese user. Thanks RR, CyanogenMod, SudaMod and some I forgot.
 
 [Join the Resurrection Remix Team](http://forum.resurrectionremix.com/index.php?topic=2037.new#new)
 
@@ -12,24 +12,6 @@ familiar with [Git and Repo](http://source.android.com/source/version-control.ht
 
 How To Build Resurrection Remix ROM for your device - Tutorial
 --------
-### New Way to set up and build Resurrection Remix.
-
-##### Simply copy and paste this in a terminal window:
-
-     $ git clone https://github.com/ResurrectionRemix/ResurrectedScripts.git -b marshmallow scripts
-     $ cd scripts
-     $ ./setup.sh
-
-Once done, the source code should be already set up and you can head on to build RR by using the build script in the root of source code
- 
-so simply copy and paste this in a terminal window:
-
-     $ bash build.sh
-
----
-
-### Old Way to set up and build Resurrection Remix.
-
 ### Build Environment
 
 - Tested and Working on any version of Ubuntu - 14.04,14.10,15.04 (64-bit)
@@ -87,7 +69,7 @@ Alright, so now we’re getting there. I have outlined the basics of what we’r
 
 ##### Initializing the RR repo and downloading the manifest
 
-      $  repo init -u https://github.com/ResurrectionRemix/platform_manifest.git -b marshmallow
+      $  repo init -u https://github.com/Ninxes/rrcn_manifest.git -b marshmallow
 
 ##### Syncing the source
 [Hint: This might take a long time as the source is ~20GB]

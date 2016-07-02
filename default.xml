@@ -44,10 +44,10 @@
   <project path="packages/apps/Settings" name="Ninxes/android_packages_apps_Settings" groups="pdk-fs" revision="marshmallow" />
   <project path="packages/apps/InCallUI" name="Ninxes/android_packages_apps_InCallUI" revision="marshmallow" />
   <project path="packages/services/Telephony" name="Ninxes/android_packages_services_Telephony" revision="marshmallow" />
-  <project path="packages/apps/CMFileManager" name="Ninxes/android_packages_apps_CMFileManager" revision="marshmallow" />
   <project path="packages/apps/Messaging" name="Ninxes/android_packages_apps_Messaging" revision="marshmallow" />
   <project path="packages/services/Telecomm" name="Ninxes/android_packages_services_Telecomm" revision="marshmallow" />
   <project path="vendor/cm" name="Ninxes/android_vendor_resurrection" revision="marshmallow" />
+  <project path="packages/apps/CMFileManager" name="Ninxes/android_packages_apps_CMFileManager" revision="cm-13.0" />
   <project path="packages/apps/Dialer" name="Ninxes/android_packages_apps_Dialer" groups="pdk-fs" revision="cm-13.0" />
   <project path="packages/apps/Contacts" name="Ninxes/android_packages_apps_Contacts" groups="pdk-fs" revision="cm-13.0" />
   <project path="packages/apps/ContactsCommon" name="Ninxes/android_packages_apps_ContactsCommon" groups="pdk-fs" revision="cm-13.0" />

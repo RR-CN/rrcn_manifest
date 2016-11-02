@@ -53,7 +53,7 @@
   <project path="packages/apps/ContactsCommon" name="RR-CN/android_packages_apps_ContactsCommon" groups="pdk-fs" revision="cm-13.0" />
   <project path="packages/apps/Eleven" name="RR-CN/android_packages_apps_Eleven" revision="cm-13.0" />
   <project path="packages/apps/Calendar" name="RR-CN/android_packages_apps_Calendar" groups="pdk-fs" revision="cm-13.0" />
-  <project path="external/suda/SudaSDKs" name="RR-CN/android_external_suda_SudaSDKs" revision="cm-13.0" />
+  <project path="external/suda/SudaSDKs" name="RR-CN/android_external_suda_SudaSDKs" revision="sm-2.0" />
   <project path="packages/providers/PhoneLocationProvider" name="RR-CN/android_packages_provider_PhoneLocationProvider" revision="cm-13.0" />
 <!-- END RR-CN -->
 
